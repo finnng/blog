@@ -69,7 +69,7 @@ PowerToys also have tool PowerToys Run, it does search for file, application, ca
 
 PowerToys Keyboard Manager can help to remap the simple keystrokes. I don't want to relearn the memory muscle so that I map all the familiar keystrokes like alt+c, alt+v to ctrl+c, ctrl+v, and so on. 
 
-![](images/window-keys-remapping.png)
+![](/_posts/images/window-keys-remapping.png)
 I also use the F keys to quick launch the app, which is super productive for me. For example, I usually switch between Chrome, Terminal, Vim, Postman for the development, mapping it directly to F1, F2, F3, F8... check out my AutoHotkey dot file
 
 ```autohotkey
