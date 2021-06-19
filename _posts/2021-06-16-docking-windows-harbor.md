@@ -49,7 +49,7 @@ For the other command, Windows has `scoop`, it will install the prebuild CLI pro
 
 Windows doesn't have much choice on the terminal app, cause most of them is ugly af. Windows terminal so far is the best, with true color, tab and pannel support, able to open all kinds of shells.
 
-![image](./images/window-terminal.png)
+![image](images/window-terminal.png)
 
 It still need a lot to improve but at least it good enough for now.
 
@@ -69,7 +69,7 @@ PowerToys also have tool PowerToys Run, it does search for file, application, ca
 
 PowerToys Keyboard Manager can help to remap the simple keystrokes. I don't want to relearn the memory muscle so that I map all the familiar keystrokes like alt+c, alt+v to ctrl+c, ctrl+v, and so on. 
 
-![](./images/window-keys-remapping.png)
+![](images/window-keys-remapping.png)
 I also use the F keys to quick launch the app, which is super productive for me. For example, I usually switch between Chrome, Terminal, Vim, Postman for the development, mapping it directly to F1, F2, F3, F8... check out my AutoHotkey dot file
 
 ```autohotkey
