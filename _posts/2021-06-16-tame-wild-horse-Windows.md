@@ -72,7 +72,6 @@ PowerToys Keyboard Manager can help to remap the simple keystrokes. I don't want
 I also use the F keys to quick launch the app, which is super productive for me. For example, I usually switch between Chrome, Terminal, Vim, Postman for the development, mapping it directly to F1, F2, F3, F8... check out my AutoHotkey dot file
 
 ```autohotkey
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 F1::
 if WinExist("ahk_exe chrome.exe",,"Picture-in-Picture")
     WinActivate
@@ -98,6 +97,11 @@ if WinExist("ahk_exe firefox.exe",,"Picture-in-Picture")
     WinActivate
 return
 
+!F5::
+if WinExist("ahk_exe telegram.exe")
+    WinActivate
+return
+
 F6::
 if WinExist("ahk_exe discord.exe")
     WinActivate
@@ -117,11 +121,17 @@ F9::
 if WinExist("ahk_exe pritunl.exe")
     WinActivate
 return
+
+F10::
+if WinExist("ahk_exe clickup.exe")
+    WinActivate
+return
 ```
 
 # Conclusion
 
 It is not the end of the road yet, I just switch to Windows for a few weeks, and the post will be updated.
+Checkout my dot files for more detail: https://github.com/finnng/dotfiles
 
 There are something still makes me uncomfortable, my favorite editor is NeoVim but it is not fully working on Windows yet, my favorite fzf.vim still unstable and buggy which prevents me from using it as a daily driver. There are no Apple Photos, iMessage, Notes, and other productivity apps that belong to the Apple ecosystem available here. I have to compromise because the computer power is huge compare to my Macbook pro.
 I think a big Mac Pro with 28 cores and 64Gb of Ram will resolve all the trouble above.
