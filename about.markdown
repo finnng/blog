@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I hope this blog will lasts long. I had many blog buts I have deleted it all. I hate what I wrote sometimes that's why I delete it when I looking back, everything from this moment soon become the part of the history, sometimes it worth reading, sometimes it's just a trash, but afters years it seemed mostly just trash. But from now on I think I should keep it, deal with it as it a part of present me and future me.
+I hope this blog will last long, I had many blogs, but I have deleted them all. Sometimes, I hate what I've written, that is why is go back and delete them all. Everything from this moment soon becomes a part of the history, it may worth reading, sometimes it's just trash, and after years it seems mostly just trash. But from now, I think I should keep it, accept it as a part of the present me and future me.
 
-I'm think of setting up the comment feature but for most of the time I nerver see anyone give a fuck about what I wrote, so that just shoot me an email if you found this blog interesting.
+I'm thinking of setting up the comment feature, but most of the time, I never see anyone give a fuck about what I wrote so that just send me an email if you found this blog interesting.
