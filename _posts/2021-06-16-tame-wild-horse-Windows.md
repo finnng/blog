@@ -131,7 +131,7 @@ return
 # Conclusion
 
 It is not the end of the road yet, I just switch to Windows for a few weeks, and the post will be updated.
-Checkout my dot files for more detail: https://github.com/finnng/dotfiles
+Checkout my dot files for more detail: [https://github.com/finnng/dotfiles]()
 
 There are something still makes me uncomfortable, my favorite editor is NeoVim but it is not fully working on Windows yet, my favorite fzf.vim still unstable and buggy which prevents me from using it as a daily driver. There are no Apple Photos, iMessage, Notes, and other productivity apps that belong to the Apple ecosystem available here. I have to compromise because the computer power is huge compare to my Macbook pro.
 I think a big Mac Pro with 28 cores and 64Gb of Ram will resolve all the trouble above.
